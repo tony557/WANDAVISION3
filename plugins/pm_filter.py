@@ -1295,10 +1295,10 @@ async def auto_filter(client, msg, spoll=False):
     if imdb:
         cap = TEMPLATE.format(
             group = message.chat.title,
-            requested = message.from_user.mention,
-            requested by = requested_by['requested_by],
+            requested = message.from_user.mention,        
             query = search,
             title = imdb['title'],
+            requested by = imdb['requested_by],
             votes = imdb['votes'],
             aka = imdb["aka"],
             seasons = imdb["seasons"],
