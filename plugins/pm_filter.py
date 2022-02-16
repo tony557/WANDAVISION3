@@ -1298,7 +1298,6 @@ async def auto_filter(client, msg, spoll=False):
             requested = message.from_user.mention,        
             query = search,
             title = imdb['title'],
-            requested_for = imdb['requested_by'],
             votes = imdb['votes'],
             aka = imdb["aka"],
             seasons = imdb["seasons"],
