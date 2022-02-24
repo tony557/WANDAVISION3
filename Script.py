@@ -19,7 +19,7 @@ class script(object):
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Samantha-a/Film-Club"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Samantha-a/Film-Clubb"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
   
 
 <b>DEVS:</b>
@@ -146,7 +146,7 @@ Delete A Lot Of Messages From Groups!
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- Samantha Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -311,7 +311,7 @@ To Get Sticker ID
 ➪ /pbatch - 𝖴𝗌𝖾 𝗒𝗈𝗎𝗋 𝗆𝖺𝖽𝗂𝖺 𝗅𝗂𝗇𝗄 𝗐𝗂𝗍𝗁 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽
 ➪ /batch - To create link for multiple post
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-/pbatch <code>https://t.me/Sflix2k/497 https://t.me/Sflix2k/498</code>"""
+/pbatch <code>https://t.me/c/1508000334/555 https://t.me/c/1508000334/557</code>"""
 
     GTRANS_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖦𝗈𝗈𝗀𝗅𝖾 𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾𝗋
 
