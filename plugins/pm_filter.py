@@ -727,34 +727,28 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="s"
+            text="▣▢▢▢▢▢"
         )
         await query.message.edit_text(
-            text="sa"
+            text="▣▣▢▢▢▢"
         )
         await query.message.edit_text(
-            text="sam"
+            text="▣▣▣▢▢▢"
         )
         await query.message.edit_text(
-            text="sama"
+            text="▣▣▣▣▢▢"
         )
         await query.message.edit_text(
-            text="saman"
+            text="▣▣▣▣▣▢"
         )
         await query.message.edit_text(
-            text="samant"
+            text="▣▣▣▣▣▣"
         )
         await query.message.edit_text(
-            text="samanth"
+            text="𝓛𝓸𝓪𝓭𝓲𝓷𝓰"
         )
         await query.message.edit_text(
-            text="samantha"
-        )
-        await query.message.edit_text(
-            text="s_a_m_a_t_h_a"
-        )
-        await query.message.edit_text(
-            text="Samantha"
+            text="🆂🅰🅼🅰🅽🆃🅷🅰"
         )
         await query.message.edit_text(        
             text="Select your required mode from below!",
@@ -803,34 +797,28 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
-            text="s"
+            text="▣▢▢▢▢▢"
         )
         await query.message.edit_text(
-            text="sa"
+            text="▣▣▢▢▢▢"
         )
         await query.message.edit_text(
-            text="sam"
+            text="▣▣▣▢▢▢"
         )
         await query.message.edit_text(
-            text="sama"
+            text="▣▣▣▣▢▢"
         )
         await query.message.edit_text(
-            text="saman"
+            text="▣▣▣▣▣▢"
         )
         await query.message.edit_text(
-            text="samant"
+            text="▣▣▣▣▣▣"
         )
         await query.message.edit_text(
-            text="samanth"
+            text="𝓛𝓸𝓪𝓭𝓲𝓷𝓰"
         )
         await query.message.edit_text(
-            text="samantha"
-        )
-        await query.message.edit_text(
-            text="s_a_m_a_n_t_h_a"
-        )
-        await query.message.edit_text(
-            text="Samantha"
+            text="🆂🅰🅼🅰🅽🆃🅷🅰"
         )
         await query.message.edit_text(          
             text=script.HELP_TXT.format(query.from_user.mention),
