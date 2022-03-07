@@ -58,7 +58,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛 ', url='https://t.me/albintko'),
             InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 ', url='https://t.me/+AMHw_K1wvOM3MTU9')
-        ]]  
+        ]]
+        await message.reply_chat_action("typing")
+        m=await message.reply_sticker("CAACAgUAAxkBAAPLYhmLeQjtiqPZJEHOFh4KFOjbWzcAAvgDAAKfRIlXnd2oxpsLJeYeBA") 
+        await asyncio.sleep(1) await m.delete()  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_video(
             video=random.choice(PICS),
@@ -103,6 +106,9 @@ async def start(client, message):
             InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛 ', url='https://t.me/albintko'),
             InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 ', url='https://t.me/+AMHw_K1wvOM3MTU9')
         ]]
+        await message.reply_chat_action("typing")
+        m=await message.reply_sticker("CAACAgUAAxkBAAPLYhmLeQjtiqPZJEHOFh4KFOjbWzcAAvgDAAKfRIlXnd2oxpsLJeYeBA") 
+        await asyncio.sleep(1) await m.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_video(
             video=random.choice(PICS),
