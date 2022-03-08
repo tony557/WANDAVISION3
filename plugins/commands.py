@@ -23,13 +23,13 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 💠', url='https://t.me/+AMHw_K1wvOM3MTU9')
+                InlineKeyboardButton('💠 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 💠', url='https://t.me/Newcinemazz')
             ],
             [
-                InlineKeyboardButton('💠 𝙾𝚠𝚗𝚎𝚛 💠', url='https://t.me/albintko')
+                InlineKeyboardButton('💠 𝙾𝚠𝚗𝚎𝚛 💠', url='https://t.me/Tony_Stark06')
             ],
             [
-                InlineKeyboardButton('💠 𝙶𝚛𝚘𝚞𝚙 💠', url='https://t.me/moviebus2')
+                InlineKeyboardButton('💠 𝙶𝚛𝚘𝚞𝚙 💠', url='https://t.me/cinemakottakatwo')
             ],
             [
                 InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help")
@@ -50,14 +50,14 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton(' 𝚂𝚎𝚊𝚛𝚌𝚑 𝙷𝚎𝚛𝚎 ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton(' 𝙰𝚋𝚘𝚞𝚝 ', callback_data='about')
+            InlineKeyboardButton(' 𝚂𝚎𝚊𝚛𝚌𝚑 𝙷𝚎𝚛𝚎🔎 ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton(' 𝙰𝚋𝚘𝚞𝚝🛰 ', callback_data='about')
             ],[
-            InlineKeyboardButton('𝙷𝙴𝙻𝙿', callback_data='help'),
-            InlineKeyboardButton(' 𝙶𝚛𝚘𝚞𝚙 ', url='https://t.me/moviebus2')
+            InlineKeyboardButton('𝙷𝙴𝙻𝙿🦋', callback_data='help'),
+            InlineKeyboardButton(' 𝙶𝚛𝚘𝚞𝚙💮 ', url='https://t.me/cinemakottakatwo')
             ],[
-            InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛 ', url='https://t.me/albintko'),
-            InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 ', url='https://t.me/+AMHw_K1wvOM3MTU9')
+            InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛🧬 ', url='https://t.me/Tony_Stark06'),
+            InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕🌼 ', url='https://t.me/Newcinemazz')
         ]]
         await message.reply_chat_action("typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAEBB2liJjsNVSkfAy_OtYR0Q48dN_9DsAACGgIAAv68YVTI6jnmvnlZlh4E") 
@@ -102,14 +102,14 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton(' 𝚂𝚎𝚊𝚛𝚌𝚑 𝙷𝚎𝚛𝚎 ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton(' 𝙰𝚋𝚘𝚞𝚝 ', callback_data='about')
+            InlineKeyboardButton(' 𝚂𝚎𝚊𝚛𝚌𝚑 𝙷𝚎𝚛𝚎🔎 ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton(' 𝙰𝚋𝚘𝚞𝚝🛰 ', callback_data='about')
             ],[
-            InlineKeyboardButton('𝙷𝙴𝙻𝙿', callback_data='help'),
-            InlineKeyboardButton(' 𝙶𝚛𝚘𝚞𝚙 ', url='https://t.me/moviebus2')
+            InlineKeyboardButton('𝙷𝙴𝙻𝙿🦋', callback_data='help'),
+            InlineKeyboardButton(' 𝙶𝚛𝚘𝚞𝚙💮 ', url='https://t.me/cinemakottakatwo')
             ],[
-            InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛 ', url='https://t.me/albintko'),
-            InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 ', url='https://t.me/+AMHw_K1wvOM3MTU9')
+            InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛🧬 ', url='https://t.me/Tony_Stark06'),
+            InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕🌼 ', url='https://t.me/Newcinemazz')
         ]]
         await message.reply_chat_action("typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAEBB2liJjsNVSkfAy_OtYR0Q48dN_9DsAACGgIAAv68YVTI6jnmvnlZlh4E") 
