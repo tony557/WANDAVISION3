@@ -1419,7 +1419,7 @@ async def advantage_spell_chok(msg):
         )
     ] for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
-    await msg.reply_sticker("CAACAgUAAxkBAAEBB41iJj3iR5R5ecJdNqThkn58TM5xHAACtwEAAqswYVQKlftJ5p-KEh4E",,
+    await msg.reply_sticker("CAACAgUAAxkBAAEBB41iJj3iR5R5ecJdNqThkn58TM5xHAACtwEAAqswYVQKlftJ5p-KEh4E",
                     reply_markup=InlineKeyboardMarkup(btn))
 
 async def manual_filters(client, message, text=False):
